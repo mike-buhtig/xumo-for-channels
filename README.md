@@ -20,6 +20,7 @@ Enhancements, containerization, and web service by **Mike Farris (mike-buhtig)**
 ```bash
 docker build -t xumo-for-channels .
 docker run -d --name xumo-for-channels -p 7781:7781 xumo-for-channels
+```
 
 ## License
 
