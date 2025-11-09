@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Logs
+*.log
+
+# Local data / cache
+.cache/
+*.tmp
+*.bak
+*.swp
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+*.pid
+*.tar
+*.img
+*.qcow2
+
+# Playlists and generated data
+playlists/
+!playlists/.gitkeep
+
+# OS metadata
+.DS_Store
+Thumbs.db

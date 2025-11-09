@@ -1,0 +1,32 @@
+# Ignore git and VCS files
+.git
+.gitignore
+
+# Ignore local build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+*.tar
+*.gz
+*.zip
+
+# Ignore IDE/editor files
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Ignore virtual envs
+.venv
+env/
+venv/
+
+# Ignore local cache and generated playlists
+cache/
+playlists/
+!playlists/.gitkeep
