@@ -18,7 +18,14 @@ Enhancements, containerization, and web service by **Mike Farris (mike-buhtig)**
 ## 🐳 Docker Quick Start
 
 ```bash
+
+# build
 docker build -t xumo-for-channels .
+
+# Pull from Docker
+docker pull mike1504/xumo-for-channels:latest
+
+# Run
 docker run -d \
   --name xumo-for-channels \
   -p 7781:7781 \
