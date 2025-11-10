@@ -39,6 +39,9 @@ docker run -d \
   -e TZ=America/Chicago \
   --restart unless-stopped \
   mike1504/xumo-for-channels:latest
+
+NOTE: replace the TZ=America/Chigago with your correct time zone from here: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 Then open your browser to:
 👉 http://<server-ip>:7781/
 
