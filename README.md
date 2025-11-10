@@ -13,7 +13,7 @@ The EPG and playlist generation logic is adapted from the open-source project
 ## 📜 Credits
 
 - **Core EPG and Playlist Logic:** Adapted from [BuddyChewChew/xumo-playlist-generator](https://github.com/BuddyChewChew/xumo-playlist-generator)  
-- **Enhancements, containerization, and web service:** Mike Farris (**mike-buhtig**)
+- **Enhancements, containerization, and web service:** **mike-buhtig**
 
 ---
 
